@@ -1,0 +1,5 @@
+local kick = assert(getconnections(game.Players.LocalPlayer.CharacterAdded)[1].Function)
+
+kick = debug.getupvalue(kick, 8)
+
+hookfunction(kick, function() end)
