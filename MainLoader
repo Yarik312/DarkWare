@@ -1,4 +1,4 @@
 wait(1)
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/autoduels_bypass"), true))()
 wait(0.42222)
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/autoduels_bypass"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/Loader"), true))()
