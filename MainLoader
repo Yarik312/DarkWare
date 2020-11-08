@@ -1,6 +1,6 @@
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/Loader"), true))()
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "DarkWare";
-	Text = "If you want AutoDuels Bypass please check your console.";
+	Text = "Please join our discord!:)";
 })
 print"AutoDuels Bypass - https://github.com/Yarik312/DarkWare/blob/main/autoduels_bypass"
