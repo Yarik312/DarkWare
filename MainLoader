@@ -3,4 +3,3 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "DarkWare";
 	Text = "Please join our discord!:)";
 })
-print"AutoDuels Bypass - https://github.com/Yarik312/DarkWare/blob/main/autoduels_bypass"
