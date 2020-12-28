@@ -30,11 +30,13 @@
 [------------------------------------------------------------------]
 - [Natural Disaster Survival]
 [+] No Fall Damage
-[+] Vote map menu
-[+] No blizzard effect
+[+] Vote map ui toggle
+[+] No Sandstorm effect
 [+] Walkspeed & jump power changer
 [+] map delete
 [+] Tp to spawn&island
+[+] Get tools
+[+] Show next disaster
 [------------------------------------------------------------------]
 - [Destruction Simulator]
 [+] Tp to areas
