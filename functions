@@ -1,3 +1,4 @@
+Games Supported + functions: (10)
 - [Bubble Gum Simulator]
 [+] Auto bubble blow
 [+] Auto Sell
@@ -12,21 +13,6 @@
 [+] Unafk
 [+] Spam Afks
 [+] Map Changer
-[------------------------------------------------------------------]
-- [Auto Duels]
-[+] new anicheat bypass
-[+] Sword resizer
-[+] Loop bring heal pads
-[+] Speed Boost on bind (custom binds)
-[+] Toggable Spin Bot
-[+] Rage Auto Heal
-[+] Legit Speed Boost on bind
-[+] Reset Arena On Bind
-[+] Customizable Killsay
-[+] Rejoin
-[+] Toggable Killaura
-[+] Teleports
-[+] Self Destruct
 [------------------------------------------------------------------]
 - [Natural Disaster Survival]
 [+] No Fall Damage
@@ -45,16 +31,21 @@
 [+] sell and auto sell
 [+] lag all players
 [+] AntiLag
+[+] Seperate player destruction functions (explode, loop explode, lag)
+[+] Area Destruction
+[+] Area Destruction settings (area choose, explode type, interval)
 [------------------------------------------------------------------]
 - [The Maze]
 [+] Fullbright
 [+] Items giver
-[+] Monsters remover & esp
+[+] Monsters remover & esp & nametags
 [+] remove fall damage
 [+] loop get axe (so you can spam throw it)
 [+] get keypad code
 [+] thirdperson
 [+] remove death scenes (jump scares)
+[+] HitAura
+[+] Server Crash
 [------------------------------------------------------------------]
 - [Amongst Us]
 [+] Teleports
@@ -68,13 +59,11 @@
 [------------------------------------------------------------------]
 - [Doomspire Brickbattle]
 [+] Teleports
-[+] Move bombs on bind (patched as of 21.12.20, trying to fix)
 [+] No void
 [+] InfJump
 [+] Fly
 [+] Walkspeed & Jumppower changer
 [+] tp to player
-[------------------------------------------------------------------]
 - [Tower Of Hell]
 [+] Teleport to the end
 [+] AntiCheat Bypass
@@ -91,3 +80,17 @@
 [+] Give Guns
 [+] Mod guns
 [+] Main Control script removal
+[Auto Duels]
+[+] new anicheat bypass
+[+] Sword resizer
+[+] Loop bring heal pads
+[+] Speed Boost on bind (custom binds)
+[+] Toggable Spin Bot
+[+] Rage Auto Heal
+[+] Legit Speed Boost on bind
+[+] Reset Arena On Bind
+[+] Customizable Killsay
+[+] Rejoin
+[+] Toggable Killaura
+[+] Teleports
+[+] Self Destruct
